@@ -1,0 +1,11 @@
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\obj\Debug\BasketballNetworking.csproj.AssemblyReference.cache
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\obj\Debug\BasketballNetworking.csproj.CoreCompileInputs.cache
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\bin\Debug\BasketballNetworking.dll
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\bin\Debug\BasketballNetworking.pdb
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\bin\Debug\BasketballModel.dll
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\bin\Debug\BasketballServices.dll
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\bin\Debug\BasketballModel.pdb
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\bin\Debug\BasketballServices.pdb
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\obj\Debug\BasketballNetworking.csproj.CopyComplete
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\obj\Debug\BasketballNetworking.dll
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballNetworking\obj\Debug\BasketballNetworking.pdb

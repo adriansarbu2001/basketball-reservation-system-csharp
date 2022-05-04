@@ -1,0 +1,6 @@
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballModel\bin\Debug\BasketballModel.dll
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballModel\bin\Debug\BasketballModel.pdb
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballModel\obj\Debug\BasketballModel.csproj.AssemblyReference.cache
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballModel\obj\Debug\BasketballModel.csproj.CoreCompileInputs.cache
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballModel\obj\Debug\BasketballModel.dll
+C:\UBB\SEM IV\Medii de Proiectare si Programare\Lab\basketball-reservation-system-csharp\BasketballModel\obj\Debug\BasketballModel.pdb
