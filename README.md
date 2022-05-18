@@ -1,4 +1,4 @@
-# basketball-reservation-system-java
+# basketball-reservation-system-csharp
 
 ## About:
 - A system for selling tickets at a basketball competition made with C#
