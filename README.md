@@ -1,5 +1,9 @@
 # basketball-reservation-system-java
 
+## About:
+- A system for selling tickets at a basketball competition made with C#
+without using any server-client tools.
+
 ## Stacks:
 - C#
 - SQLite
